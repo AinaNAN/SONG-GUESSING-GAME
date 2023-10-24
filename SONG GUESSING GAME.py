@@ -13,12 +13,6 @@ def main():
         "heather"
     ]
     
-    singer={
-        "Ruth.B",
-        "The Walters",
-        "Conan Gray",
-        "Billie Eilish"
-        }
         
     x=random.choice(song)
     #print(x)
